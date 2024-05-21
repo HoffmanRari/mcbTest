@@ -1,0 +1,12 @@
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\bin\Debug\net8.0\MCB.DataAccess.deps.json
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\bin\Debug\net8.0\MCB.DataAccess.dll
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\bin\Debug\net8.0\MCB.DataAccess.pdb
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\MCB.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\MCB.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\MCB.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\MCB.DataAccess.AssemblyInfo.cs
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\MCB.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\MCB.DataAccess.dll
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\refint\MCB.DataAccess.dll
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\MCB.DataAccess.pdb
+C:\Users\hoffm\source\repos\MCB.App\MCB.DataAccess\obj\Debug\net8.0\ref\MCB.DataAccess.dll

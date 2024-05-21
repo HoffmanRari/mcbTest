@@ -1,0 +1,15 @@
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\bin\Debug\net8.0\MCB.Service.deps.json
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\bin\Debug\net8.0\MCB.Service.dll
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\bin\Debug\net8.0\MCB.Service.pdb
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\bin\Debug\net8.0\MCB.DataAccess.dll
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\bin\Debug\net8.0\MCB.DataAccess.pdb
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Service.csproj.AssemblyReference.cache
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Service.AssemblyInfoInputs.cache
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Service.AssemblyInfo.cs
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Service.csproj.CoreCompileInputs.cache
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Serv.25320309.Up2Date
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Service.dll
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\refint\MCB.Service.dll
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\MCB.Service.pdb
+C:\Users\hoffm\source\repos\MCB.App\MCB.Service\obj\Debug\net8.0\ref\MCB.Service.dll

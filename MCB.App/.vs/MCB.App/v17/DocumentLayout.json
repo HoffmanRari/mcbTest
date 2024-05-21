@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptsp\\developmentdata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptsp\\developmentdata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptsp\\corruptiondata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptsp\\corruptiondata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898D5623-3ABD-4C18-B367-CDD9B92339EB}|MCB.Service\\MCB.Service.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.service\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898D5623-3ABD-4C18-B367-CDD9B92339EB}|MCB.Service\\MCB.Service.csproj|solutionrelative:mcb.service\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8F20F7-584C-4EFF-9329-A46FA02D2F69}|MCB.Main\\MCB.Main.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8F20F7-584C-4EFF-9329-A46FA02D2F69}|MCB.Main\\MCB.Main.csproj|solutionrelative:mcb.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptsp\\scripttables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptsp\\scripttables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EF37BF-205D-421E-AA9F-3FE418ED42CB}|MCB.Test\\MCB.Test.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.test\\dataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF37BF-205D-421E-AA9F-3FE418ED42CB}|MCB.Test\\MCB.Test.csproj|solutionrelative:mcb.test\\dataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\developmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\developmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scripttables.txt||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scripttables.txt||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\datapackage.pkb||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\datapackage.pkb||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\datapackage.pks||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\datapackage.pks||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\corruptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\corruptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\datapackage.pkb||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\datapackage.pkb||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\datapackage.pks||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\datapackage.pks||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scripttables.txt||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scripttables.txt||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptsp\\scripttables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptsp\\scripttables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptsp\\corruptiondata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptsp\\corruptiondata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|c:\\users\\hoffm\\source\\repos\\mcb.app\\mcb.dataaccess\\database\\scriptsp\\developmentdata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{667008F4-A408-4669-86E7-F17C9F687ECB}|MCB.DataAccess\\MCB.DataAccess.csproj|solutionrelative:mcb.dataaccess\\database\\scriptsp\\developmentdata_upsert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevelopmentData_Upsert.sql ",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptSP\\DevelopmentData_Upsert.sql",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\ScriptSP\\DevelopmentData_Upsert.sql",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptSP\\DevelopmentData_Upsert.sql",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\ScriptSP\\DevelopmentData_Upsert.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T14:17:28.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorruptionData_Upsert.sql ",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptSP\\CorruptionData_Upsert.sql",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\ScriptSP\\CorruptionData_Upsert.sql",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptSP\\CorruptionData_Upsert.sql",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\ScriptSP\\CorruptionData_Upsert.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T14:17:02.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoredProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\StoredProcedure.cs",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\StoredProcedure.cs",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\StoredProcedure.cs",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\StoredProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:02:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.Test\\DataServiceTests.cs",
+              "RelativeDocumentMoniker": "MCB.Test\\DataServiceTests.cs",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.Test\\DataServiceTests.cs",
+              "RelativeToolTip": "MCB.Test\\DataServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:16:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScriptDatabase.sql ",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptDatabase.sql",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\ScriptDatabase.sql",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptDatabase.sql",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\ScriptDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-20T18:55:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\DataRepository.cs",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\DataRepository.cs",
+              "RelativeToolTip": "MCB.DataAccess\\DataRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAjwD0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:30:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CorruptionData.cs",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\CorruptionData.cs",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\CorruptionData.cs",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\CorruptionData.cs",
+              "RelativeToolTip": "MCB.DataAccess\\CorruptionData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:41:49.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevelopmentData.cs",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\DevelopmentData.cs",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\DevelopmentData.cs",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\DevelopmentData.cs",
+              "RelativeToolTip": "MCB.DataAccess\\DevelopmentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:41:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.Service\\DataService.cs",
+              "RelativeDocumentMoniker": "MCB.Service\\DataService.cs",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.Service\\DataService.cs",
+              "RelativeToolTip": "MCB.Service\\DataService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:46:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.Main\\Program.cs",
+              "RelativeDocumentMoniker": "MCB.Main\\Program.cs",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.Main\\Program.cs",
+              "RelativeToolTip": "MCB.Main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:28:11.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScriptTables.sql ",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptSP\\ScriptTables.sql",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\ScriptSP\\ScriptTables.sql",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptSP\\ScriptTables.sql",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\ScriptSP\\ScriptTables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T14:04:49.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScriptTables.txt ",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptTables.txt",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\ScriptTables.txt",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\ScriptTables.txt",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\ScriptTables.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T19:12:18.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dataPackage.pks",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pks",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\dataPackage.pks",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pks",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\dataPackage.pks",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T19:08:57.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dataPackage.pkb",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pkb",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\dataPackage.pkb",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pkb",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\dataPackage.pkb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T19:09:35.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dataPackage.pkb",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pkb",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\dataPackage.pkb",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pkb",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\dataPackage.pkb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T19:05:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dataPackage.pks",
+              "DocumentMoniker": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pks",
+              "RelativeDocumentMoniker": "MCB.DataAccess\\Database\\dataPackage.pks",
+              "ToolTip": "C:\\Users\\hoffm\\source\\repos\\MCB.App\\MCB.DataAccess\\Database\\dataPackage.pks",
+              "RelativeToolTip": "MCB.DataAccess\\Database\\dataPackage.pks",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T19:08:18.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
